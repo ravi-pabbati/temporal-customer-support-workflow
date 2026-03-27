@@ -4,6 +4,8 @@ A prototype that automates food delivery refund decisions using **Temporal** for
 
 ## How It Works
 
+![Workflow Diagram](screenshots/temporal_workflow_diagram.svg)
+
 ```
 Customer submits complaint
          ↓
